@@ -1,0 +1,18 @@
+%abc-2.1
+I:abc-charset utf-8
+
+X:1
+T:Egy boszorka van
+O:Magyar népdal
+M:2/4
+Q:1/4=96
+L:1/8
+K:C
+CD ED | C2 z2 | CD ED | C2 z2 |
+w: Egy bo-szor-ka van. Há-rom fi-a van.
+EE FF | EE D2 | EE FF | EE D2 |
+w: Is-ko-lá-ba jár az egy, má-sik bocs-kort varr-ni megy,
+ED EF | GF ED | ED EF | GF ED |
+w: a har-ma-dik itt a pa-don a du-dá-ját fúj-ja na-gyon.
+CD ED | C2 z2 | CD ED | C2 z2 |]
+w: De szép hang-ja van. Da-na da-na dan.

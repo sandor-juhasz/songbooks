@@ -1,0 +1,28 @@
+%abc-2.1
+I:abc-charset utf-8
+
+X:1
+T:Hol jártál, báránykám?
+O:Magyar népdal
+M:2/4
+Q:1/4=60
+L:1/8
+W:Hol jártál, báránykám?
+W:Zöld erdőben, asszonykám.
+W:Mit ettél, báránykám?
+W:Édes füvet, asszonykám.
+W:
+W:Mit ittál, báránykám?
+W:Forrásvizet, asszonykám.
+W:Ki vert meg báránykám?
+W:Szomszéd legény asszonykám.
+W:
+W:Sírtál-e báránykám?
+W:Sírtam biz én asszonykám.
+W:Hogy sírtál báránykám?
+W:Ehem-behem asszonykám.
+K:C
+GE F2 | EC D2 | DF ED | GG G2|
+w: Hol jár-tál bá-rány-kám? Zöld er-dő-ben asz-szony-kám.
+GE F2 | EC D2 | DF ED | CC C2|
+w: Mit et-tél bá-rány-kám? É-des-fü-vet asz-szony-kám.
