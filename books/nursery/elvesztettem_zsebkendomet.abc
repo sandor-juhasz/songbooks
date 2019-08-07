@@ -1,0 +1,24 @@
+%abc-2.1
+I:abc-charset utf-8
+
+X:1
+T:Elvesztettem zsebkendőmet
+O:Magyar népdal
+M:2/4
+Q:1/4=60
+L:1/8
+W:Elvesztettem zsebkendőmet, 
+W:szidott anyám érte,
+W:annak, aki megtalálja, 
+W:csókot adok érte.
+W: 
+W:Szabad péntek, szabad szombat,
+W:szabad szappanozni,
+W:szabad az én galambomnak
+W:egy pár csókot adni.
+K:C
+GE FD | ED EC | DF ED | G2 G2 |
+w: El-vesz-tet-tem zseb-ken-dő-met szi-dott a-nyám ér-te.
+GE FD | ED EC | DF ED | C2 C2 |]
+w: An-nak, a-ki meg-ta-lál-ja, csó-kot a-dok ér-te.
+
