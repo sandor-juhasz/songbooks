@@ -1,0 +1,21 @@
+%abc-2.1
+I:abc-charset utf-8
+
+X:1
+T:Cickom, cickom
+O:Magyar népdal
+M:C
+Q:1/4=72
+L:1/8
+K:C
+c2 G2 C2 G2 | GFED E2 C2 :|
+w: Cic-kom, cic-kom va-gyon-e szép lá-nyod?
+w:Va-gyon, va-gyon, de mi hasz-na va-gyon?
+|: E2 EF G2 z2 :|: GAGF E2 D2 :| E2 D2 C2 z2 | 
+w:Add ne-kem azt, szi-ta-szi-ta pén-tek, dob-szer-da.
+w:el-ka-pom azt, sze-re-lem-csü-tör-tök,
+GGGG GGGG | c2 G2 G2 E2 | EEEE EEEE | F2 E2 D2 C2 | 
+w:A le-gé-nyek re-gi-ment-je i-gen cif-ra ben-ne-fo-rog Sán-dor Pan-ka i-gen nyal-ka.
+|: GGGG GG A2 | FFFF EE G2 | FE D2 C2 z2 :| 
+w:Ic-ce uc-ca Re-be-ka, de é-kes a de-re-ka, ga-lam-bocs-ka.
+w:Ha é-kes is, il-le-ti, bar-na le-gény sze-re-ti, ga-lam-bocs-ka.
