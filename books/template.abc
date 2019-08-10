@@ -1,0 +1,11 @@
+%abc-2.1
+%%pagewidth 14.8cm
+%%pageheight 21cm
+%%pagescale 0.7
+%%leftmargin 1.5cm
+%%rightmargin 1.5cm
+%%topmargin 1cm
+%%botmargin 1cm
+%%gutter 1cm
+%%footer "$P0		$P1"
+I:abc-charset utf-8

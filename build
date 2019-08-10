@@ -1,7 +1,7 @@
 #!/bin/bash
 
 mkdir -p target
-cat books/nursery/*.abc >target/nursery.abc
+cat books/template.abc books/nursery/*.abc >target/nursery.abc
 abcm2ps target/nursery.abc -O target/nursery.ps
 ps2pdf target/nursery.ps target/nursery.pdf
 
