@@ -6,9 +6,13 @@ T:Körtéfa
 O:Magyar népdal
 M:4/4
 L:1/8
-Q:80
+Q:1/4=80
 K:C
-G2 A2 G2 z2 | G2 A2 G2 z2 | G2 EG FEDE | E2 D2 C2 z2 |
-w: Kör-té-fa, kör-té-fa, kő-rö-si, ke-re-pe-si kör-té-fa.
-G2 EF G2 G2 | G2 EA G2 z2 | GAGF EDEF | E2 D2 C2 z2 |]
-w: Vá-ro-si gaz-da, gyön-gyö-si tánc, köny-nyű-já-ró kis-me-nyecs-ke, dob-szer-da.
+G2 A2 G2 z2 | G2 A2 G2 z2 |
+w: Kör-té-fa, kör-té-fa,
+G2 EG FEDE | E2 D2 C2 z2 |
+w: kő-rö-si, ke-re-pe-si kör-té-fa.
+G2 EF G2 G2 | G2 EA G2 z2 |
+w: Vá-ro-si gaz-da, gyön-gyö-si tánc,
+GAGF EDEF | E2 D2 C2 z2 |]
+w: köny-nyű-já-ró kis-me-nyecs-ke, dob-szer-da.
