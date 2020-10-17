@@ -1,14 +1,20 @@
 #!/bin/bash
 
+build-pages() {
+    local book
+    book=$1
+    mkdir -p target/${book}
+    for song in books/${book}/*.abc
+    do
+	song_file=$(basename "${song}")
+	cat books/template.abc "${song}" >"target/${book}/${song_file}"
+	abcm2ps "target/${book}/${song_file}" -O "target/${book}/${song_file}.ps"
+	ps2pdf "target/${book}/${song_file}.ps" "target/${book}/${song_file}.pdf"    
+    done    
+}
+
 mkdir -p target
-mkdir -p target/english-nursery
-for song in books/english-nursery/*.abc
-do
-    song_file=$(basename "${song}")
-   cat books/template.abc "${song}" >"target/english-nursery/${song_file}"
-   abcm2ps "target/english-nursery/${song_file}" -O "target/english-nursery/${song_file}.ps"
-   ps2pdf "target/english-nursery/${song_file}.ps" "target/english-nursery/${song_file}.pdf"    
-done
-	    
+build-pages english-nursery
+build-pages usa-scout
 
 
