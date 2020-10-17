@@ -1,14 +1,12 @@
 %abc-2.1
-I:abc-charset utf-8
-
 X:1
 T:Egyél libám, egyél már
 O:Magyar népdal
 M:2/4
 Q:1/4=60
 L:1/8
-K:G
-FFEE | DF D2 | FFEE | DF D2 | F2 A2 | F2 D2 |
-w: E-gyél, li-bám, e-gyél már, nézd a na-pot, le-megy már! Éj-fél táj-ba, 
-F2 A2 | F2 D2 | FFEE | D2 E2 | F2 E2 | D2 z2 |]
-w: nyolc ó-rá-ra, Es-ti ha-rang-szó-ra, hipp, hopp, hopp!
+K:Cmaj
+BBAA | GB G2 | BBAA | GB G2 | B2 d2 | B2 G2 |
+w:E-gyél, li-bám, e-gyél már, nézd a na-pot, le-megy már! Éj-fél táj-ba,
+B2 d2 | B2 G2 | BBAA | G2 A2 | B2 A2 | G2 z2 |]
+w:nyolc ó-rá-ra, Es-ti ha-rang-szó-ra, hipp, hopp, hopp!
