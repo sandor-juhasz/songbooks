@@ -1,7 +1,16 @@
 #!/bin/bash
 
-mkdir -p target
-cat books/template.abc books/english-nursery/*.abc >target/english-nursery.abc
-abcm2ps target/english-nursery.abc -O target/english-nursery.ps
-ps2pdf target/english-nursery.ps target/english-nursery.pdf
+build-book() {
+    local book
+    book=$1
+    
+    mkdir -p target
+    cat "books/template.abc" books/${book}/*.abc >"target/${book}.abc"
+    abcm2ps "target/${book}.abc" -O "target/${book}.ps"
+    ps2pdf "target/${book}.ps" "target/${book}.pdf"
+}
 
+
+build-book usa-scout
+build-book english-nursery
+build-book magyar-gyerekdalok
