@@ -1,74 +1,72 @@
 %abc-2.1
-I:abc-charset utf-8
-
 X:1
 T:London Bridge
 O:Traditional
 M:2/4
 L:1/8
 Q:1/4=60
-K:D
-AB AG | FGA2 | EFG2 | FGA2 | 
-w: Lon-don Bridge is fal-ling down, Fal-ling down, fal-ling down.
-AB AG | FG A2 | E2 A2 | F D3 |]
-w: Lon-don Bridge is fal-ling down, My fair la-dy.
+K:Cmaj
+GA GF | EFG2 | DEF2 | EFG2 | 
+w:Lon-don Bridge is fal-ling down, Fal-ling down, fal-ling down.
+GA GF | EF G2 | D2 G2 | E C3 |]
+w:Lon-don Bridge is fal-ling down, My fair la-dy.
 W:
-W: London Bridge is falling down,
-W: Falling down, falling down,
-W: London Bridge is falling down,
-W: My fair Lady.
-W: 
-W: Build it up with wood and clay,
-W: Wood and clay, wood and clay,
-W: Build it up with wood and clay,
-W: My fair Lady.
-W: 
-W: Wood and clay will wash away,
-W: Wash away, wash away,
-W: Wood and clay will wash away,
-W: My fair Lady.
-W: 
-W: Build it up with bricks and mortar,
-W: Bricks and mortar, bricks and mortar,
-W: Build it up with bricks and mortar,
-W: My fair Lady.
-W: 
-W: Bricks and mortar will not stay,
-W: Will not stay, will not stay,
-W: Bricks and mortar will not stay,
-W: My fair Lady.
-W: 
-W: Build it up with iron and steel,
-W: Iron and steel, iron and steel,
-W: Build it up with iron and steel,
-W: My fair Lady.
-W: 
-W: Iron and steel will bend and bow,
-W: Bend and bow, bend and bow,
-W: Iron and steel will bend and bow,
-W: My fair Lady.
-W: 
-W: Build it up with silver and gold,
-W: Silver and gold, silver and gold,
-W: Build it up with silver and gold,
-W: My fair Lady.
-W: 
-W: Silver and gold will be stolen away,
-W: Stolen away, stolen away,
-W: Silver and gold will be stolen away,
-W: My fair Lady.
-W: 
-W: Set a man to watch all nigh,
-W: Watch all night, watch all night,
-W: Set a man to watch all night,
-W: My fair Lady.
-W: 
-W: Suppose the man should fall asleep,
-W: Fall asleep, fall asleep,
-W: Suppose the man should fall asleep?
-W: My fair Lady.
-W: 
-W: Give him a pipe to smoke all night,
-W: Smoke all night, smoke all night,
-W: Give him a pipe to smoke all night,
-W: My fair Lady.
+W:London Bridge is falling down,
+W:Falling down, falling down,
+W:London Bridge is falling down,
+W:My fair Lady.
+W:
+W:Build it up with wood and clay,
+W:Wood and clay, wood and clay,
+W:Build it up with wood and clay,
+W:My fair Lady.
+W:
+W:Wood and clay will wash away,
+W:Wash away, wash away,
+W:Wood and clay will wash away,
+W:My fair Lady.
+W:
+W:Build it up with bricks and mortar,
+W:Bricks and mortar, bricks and mortar,
+W:Build it up with bricks and mortar,
+W:My fair Lady.
+W:
+W:Bricks and mortar will not stay,
+W:Will not stay, will not stay,
+W:Bricks and mortar will not stay,
+W:My fair Lady.
+W:
+W:Build it up with iron and steel,
+W:Iron and steel, iron and steel,
+W:Build it up with iron and steel,
+W:My fair Lady.
+W:
+W:Iron and steel will bend and bow,
+W:Bend and bow, bend and bow,
+W:Iron and steel will bend and bow,
+W:My fair Lady.
+W:
+W:Build it up with silver and gold,
+W:Silver and gold, silver and gold,
+W:Build it up with silver and gold,
+W:My fair Lady.
+W:
+W:Silver and gold will be stolen away,
+W:Stolen away, stolen away,
+W:Silver and gold will be stolen away,
+W:My fair Lady.
+W:
+W:Set a man to watch all nigh,
+W:Watch all night, watch all night,
+W:Set a man to watch all night,
+W:My fair Lady.
+W:
+W:Suppose the man should fall asleep,
+W:Fall asleep, fall asleep,
+W:Suppose the man should fall asleep?
+W:My fair Lady.
+W:
+W:Give him a pipe to smoke all night,
+W:Smoke all night, smoke all night,
+W:Give him a pipe to smoke all night,
+W:My fair Lady.
