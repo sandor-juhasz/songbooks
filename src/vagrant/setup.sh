@@ -2,6 +2,7 @@
 
 echo "Setting up the songbook build environment..."
 
+apt-get update
 apt-get install -y build-essential ghostscript
 
 cd /tmp
