@@ -3,7 +3,8 @@
 build-book() {
     local book
     book=$1
-    
+
+    echo "Building: $book"
     mkdir -p target
     cat "books/template.abc" books/${book}/*.abc >"target/${book}.abc"
     abcm2ps "target/${book}.abc" -O "target/${book}.ps"
@@ -11,6 +12,10 @@ build-book() {
 }
 
 
-build-book usa-scout
-build-book english-nursery
-build-book magyar-gyerekdalok
+for book in books/*
+do
+    if [[ -d ${book} ]]; then	
+	bookname=$(basename $book)
+	build-book $bookname
+    fi
+done
