@@ -1,6 +1,4 @@
 %abc-2.1
-I:abc-charset utf-8
-
 X:1
 T:Hull a hó
 O:Gazdag Erzsi
@@ -14,8 +12,8 @@ W:"Nem baj, ha hull a hó, csak vadász ne jöjjön!"
 W:
 W:Parányi ökörszem kuporog az ágon,
 W:Vidáman csipogja: "Süt még nap a nyáron!"
-K:C
-AG E2 | GE D2 | CD EA | E2 E2|
+K:Cmaj
+ag e2 | ge d2 | cd ea | e2 e2|
 w:Hull a hó, hull a hó, me-se be-li á-lom,
-AG E2 | GE D2 | CD ED | A,2 A,2 |]
+ag e2 | ge d2 | cd ed | A2 A2 |]
 w:Tél-a-pó zúz-ma-rát, fúj-do-gál az á-gon.
