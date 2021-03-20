@@ -9,6 +9,9 @@
 
 - The best online ABC Music notation editor can be found
   [here](https://www.abcjs.net/abcjs-editor.html)
+
+- The reference of the abcm2ps that I use to generate the books can be found
+  [here](http://moinejf.free.fr/)
   
 - The unit node length is 1/4 as specified in the header with the `L:1/4` line.
 
