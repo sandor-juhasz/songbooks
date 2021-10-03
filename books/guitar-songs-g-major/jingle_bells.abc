@@ -3,19 +3,21 @@ X:1
 T:Jingle Bells
 M:2/4
 L:1/4
-K:Cmaj
-"C"G/2e/2 d/2c/2|"C"G3/2 G/4G/4|"C"G/2e/2 d/2c/2|"F"A2|
+O:Andy Guitar
+K:Gmaj
+S: https://youtube.com/watch?v=qoQJDuulFtA
+"G"D/2B/2 A/2G/2| "G" D3/2 D/4D/4| "G" D/2B/2 A/2G/2| "C"E2|
 w:Dash-ing  through the snow, In a one horse op-en sleigh,
-"F"A/2f/2 e/2d/2|"G"B2|"G"g/2g/2f/2d/2|"C"e2|
+"C" E/2c/2 B/2A/2| "D" F2|"D" d/2d/2c/2A/2|"G" B2|
 w:O'er the fields we go, Laugh-ing all the way!
-"C"G/2e/2 d/2c/2|"C"G2|"C"G/2e/2 d/2c/2|"F"A>A|
+"G"D/2B/2 A/2G/2| "G" D2| "G" D/2B/2 A/2G/2| "C" E>E|
 w:Bells on Bob-tail ring, Mak-ing spi-rits bright, What
-"F"A/2f/2 e/2d/2|"G"g/2g/2 g/2g/2|"G"a/2g/2 f/2d/2|"C"c g|
+"C" E/2c/2 B/2A/2| "D" d/2d/2 d/2d/2| "D" e/2d/2 c/2A/2|"G" G d|
 w:fun it is to laugh and sing a sleigh-ing song to-night, Oh,
-||"C"e/2e/2 e|"C"e/2e/2 e|"C"e/2g/2 c/2>d/2|"C"e2|"F"f/2f/2 f/2>f/2 |
+|| "G" B/2B/2 B| "G" B/2B/2 B| "G" B/2d/2 G/2>A/2| "G" B2| "C" c/2c/2 c/2>c/2 |
 w:Jing-le bells, Jing-le bells, Jing-le all the way, Oh what fun it
-"C"f/2e/2 e/2e/4e/4 | [1"D" e/2d/2 c/2e/2|"G"d g :| [2"G" g/2g/2 f/2d/2|"C"c2 |]
-w:is to be in a one horse op-en sleigh, hey! one horse op-en sleigh!
+"G" c/2B/2 B/2B/4B/4 |  [1 "A" B/2A/2 G/2B/2|"D" A d :|  [2 "D" d/2d/2 c/2A/2| "G" G2 |]
+w:is to ride in a one horse op-en sleigh, hey! one horse op-en sleigh!
 W:
 W:A day or two ago
 W:I thought I'd take a ride
@@ -42,4 +44,4 @@ W:And sing this sleighing song
 W:Just get a bobtailed bay
 W:Two forty as his speed
 W:Hitch him to an open sleigh
-W:And crack, you'll take the lead
+W:And crack, you'll take the lead 

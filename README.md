@@ -21,3 +21,7 @@
 
 - Additional lyrics is placed at the end of the document and it starts with
   an empty `W:` line.
+
+- Converting a C major song to A major:
+
+  abc2abc rudolph_the_red_nosed_reindeer.abc -t -3 >test.abc
