@@ -1,29 +1,32 @@
 %abc-2.1
-X:1
-T:Silent Night
-M:3/4
-L:1/4
-K:Cmaj
-Q:1/4=72
-G>A G|E2 z|G>A G|E2 z|D'2 D'|B2 z|
-w:Si--lent night! Ho--ly night! All is calm
-C'2 C'|G2 z|A2 A|C'>B A|G>A G|E2 z|
-w:all is bright 'Round yon vir--gin Moth-er and child
-A2 A|C'>B A|G>A G|E2 z|D'2 D'|F'>D' B|
-w:Ho-ly in-fant so ten-der and mild. Sleep in heav-en-ly 
-C'2 C'|E' z|C'>G E|G F D| (C3 | C2) z |]
-w:peace__ Sleep_ in heav-en-ly peace.*
-W:
-W:Silent night! Holy night!
-W:Shepherds quake at the sight!
-W:Glories stream from heaven afar,
-W:Heavenly hosts sing Alleluia!
-W:Christ the Saviour is born!
-W:Christ the Saviour is born!
-W:
-W:Silent night! Holy night!
-W:Son of God, love's pure light
-W:Radiant beams from thy holy face
-W:With the dawn of redeeming grace,
-W:Jesus, Lord, at thy birth!
-W:Jesus, Lord, at thy birth!
+X: 1
+T: Frosty the Snowman
+O:MusonMusicLive
+S:https://www.youtube.com/watch?v=uhYAc9YlNpY
+M: 4/4
+L: 1/4
+K: Cmaj
+"C"G2E>F|"C"Gc2B/c/|"F"dcBA|"C"G3B/c/|
+w:Frost-y the snow-man was a jol-ly hap-py soul, with a
+"F"dcBA/A/|"C"GcEG/A/|"G"GFEF|"C"G3z|
+w: corn cob pipe and a but-ton nose and two eyes made out of coal
+"C"G2E>F|"C"Gc2B/c/|"F"dcBA|"C"G3B/c/|
+w: Frost-y the snow-man is a fair-y tale, they say, He was
+"F"dcBA/A/|"C"GcEG/A/|"G"GFED|"C"C3C|
+w: made of snow but the child-ren know how he came to life one day. There
+"F"AAcc|"C"BAGE|"G"FAGF|"C"E3E|
+w:must have been some mag-ic in that old silk hat they found, For
+"G"DDGG|"G"BBdd/B/|"Am"dc"D"BA|"G"G2G2|
+w:when they placed it on his head he be-gan to dance a-round Oh!
+"C"G2E>F|"C"Gc2B/c/|"F"dcBA|"C"G3B/c/|
+w:Frost-y the snow-man was a-live as he could be And the
+"F"dcBA/A/|"C"GcEG/A/|"G"GFED|"C"C3z|
+w: chil-dren say he could laugh and play just the same as you and me.
+W:Frosty the snowman knew the sun was hot that day, 
+W:So he said, Let's run and we'll have some fun now before I melt away.
+W:Down to the village with a broomstick in his hand,
+W:Running here and there all around the square sayin' Catch me if you can.
+W:He led them down the streets of town right to the traffic cop,
+W:and he only paused a moment when he heard him holler Stop.
+W:Frosty the snowman had to hurry on his way,
+W:But he waved goodbye sayin' Don't you cry, I'll be back again some day.
