@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM mcr.microsoft.com/devcontainers/base:jammy
 
 RUN <<EOF
     apt-get update
