@@ -25,3 +25,26 @@
 - Converting a C major song to A major:
 
   abc2abc rudolph_the_red_nosed_reindeer.abc -t -3 >test.abc
+
+# Building the project
+
+1. Build the development container
+
+   ```shell
+   docker build . -t sjuhasz/songbooks
+   ```
+
+2. Start the dev container
+
+   ```shell
+   docker run -it --rm \
+       --mount "type=bind,source=/home/developer/projects/songbooks,target=/songbooks" \
+       sjuhasz/songbooks \
+       bash
+   ```
+3. Build the project
+   ```shell
+   cd /songbooks
+   ./build
+   ```
+  

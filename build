@@ -12,10 +12,9 @@ build-book() {
 }
 
 
-for book in books/*
-do
+for book in books/*; do
     if [[ -d ${book} ]]; then	
-	bookname=$(basename $book)
-	build-book $bookname
+        bookname=$(basename $book)
+        build-book $bookname
     fi
 done
