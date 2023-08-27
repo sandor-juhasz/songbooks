@@ -28,23 +28,10 @@
 
 # Building the project
 
-1. Build the development container
+1. Open the project as a VSCode Dev Container.
+2. Open the terminal.
+3. Execute:
 
    ```shell
-   docker build . -t sjuhasz/songbooks
-   ```
-
-2. Start the dev container
-
-   ```shell
-   docker run -it --rm \
-       --mount "type=bind,source=/home/developer/projects/songbooks,target=/songbooks" \
-       sjuhasz/songbooks \
-       bash
-   ```
-3. Build the project
-   ```shell
-   cd /songbooks
    ./build
    ```
-  

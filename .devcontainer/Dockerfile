@@ -11,3 +11,5 @@ RUN <<EOF
     make
     make install
 EOF
+LABEL org.opencontainers.image.source https://github.com/sandor-juhasz/songbooks
+
